@@ -1,0 +1,50 @@
+/** *********** TAG SELECTORS **/
+body {
+  background-color: #e4f9f5;
+}
+
+h1 {
+  color: #40514e;
+}
+
+h2 {
+  color: #11999e;
+}
+
+td {
+  background-color: white;
+}
+
+th {
+  background-color: #30e3ca;
+}
+
+img:hover {
+  background-color: gold;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: grey;
+  width: 5%;
+}
+
+/** ************** CLASS SELECTORS****************************/
+.background {
+  background-color: #e4f9f5;
+}
+
+.circular {
+  border-radius: 100%;
+  background-color: white;
+}
+.urgent {
+  background-color: tomato;
+}
+
+/**************** ID SELECTORS ******************************/
+#heading {
+  color: green;
+}
